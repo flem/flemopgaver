@@ -8,7 +8,7 @@ public class Akkumuler {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int terms;
-		double rate, principal, accumulated,test;
+		double rate, principal, accumulated,rulletest;
 
 		terms = 10;
 		rate = 3.5;
